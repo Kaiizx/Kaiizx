@@ -39,29 +39,13 @@
 ### 🛠 AI Tools
 
 <div align="left">
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="git" width="40" height="40" /> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="40" height="40" /> </a>
   &nbsp; &nbsp;
- 
-  <a href="https://www.arduino.cc" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/arduino.svg" alt="arduino" width="40" height="40" /> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tf" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.kali.org/get-kali/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40" /> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/raspberry-pi.png" alt="linux" width="40" height="40" /> </a>
-
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/C4D0BAQGszz17kjvCbA/company-logo_200_200/0/1673341599580?e=2147483647&v=beta&t=1PpMYosrOYVTg5u7yi28tbjMjYJU8HNtlri8AnUlAD0" alt="linux" width="40" height="40" /> </a>
  
 </div>
-<!--
-## 📇 Social & Contact
-
-<div align="left">
-
-  <a href="https://github.com/Twi1ight-github" target="_blank" rel="noreferrer"> <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
-  &nbsp;
-  <a href="https://www.facebook.com/fii.reenq" target="_blank" rel="noreferrer"> <img alt="facebook" src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" /> </a>
-  &nbsp;
-  <a href="https://www.instagram.com/fllryn__/?next=%2F" target="_blank" rel="noreferrer"> <img alt="instagram" src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
-  &nbsp;
--->
-
 
 
 
