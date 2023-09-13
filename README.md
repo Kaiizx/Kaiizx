@@ -37,18 +37,19 @@
   &nbsp; &nbsp;
   
 ### 🛠 AI Tools
-<!--
+
 <div align="left">
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/git.svg" alt="git" width="40" height="40" /> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="git" width="40" height="40" /> </a>
   &nbsp; &nbsp;
+ 
   <a href="https://www.arduino.cc" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/arduino.svg" alt="arduino" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://www.kali.org/get-kali/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40" /> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/raspberry-pi.png" alt="linux" width="40" height="40" /> </a>
-  
+
  
 </div>
-
+<!--
 ## 📇 Social & Contact
 
 <div align="left">
