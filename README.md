@@ -5,7 +5,7 @@
 
 :zap: My name is Atikan Payungthong. <br>
 :zap: I am a Computer Engineering Student at King mongkut's institute of technology ladkrabang.<br> 
-:zap: My interest in Computer vision .
+:zap: My interest in Computer vision & Training,Inference optimization.
 
 
  
