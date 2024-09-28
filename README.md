@@ -31,8 +31,6 @@
   &nbsp; &nbsp;
   <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="java" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="python" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
   <a href="" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/react-native.png" alt="python" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   
